@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://piravi0323:piravi0323@devconnector-zvs0a.mongodb.net/test?retryWries=true&w=majority",
+  "jwtSecret": "MONGO_PIRAVI_TOKEN"
+}
